@@ -4,6 +4,10 @@
 
 NorseBot is a multipurpose discord bot with uses in ticket management, moderation, fun, and streamer integrations. Click the button below to invite NorseBot to your own discord server.
 
+## Deprecation Note
+
+This project is no longer maintained and is no longer running. No further updates or support will be provided.
+
 [<img width="353" height="122" src="https://user-images.githubusercontent.com/56088145/88756059-84827900-d130-11ea-868b-da3cc805a16e.png">](https://discord.com/api/oauth2/authorize?client_id=667552258476736512&permissions=8&scope=bot)
 
 ## Commands
